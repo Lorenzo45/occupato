@@ -3,6 +3,8 @@ occupato
 
 Chrome Extension: https://chrome.google.com/webstore/detail/occupato/odikgpindnfcicflhhmgbbpjaggmhcjf 
 
+Mac App: https://github.com/Lorenzo45/Occupato-OSX/tree/master
+
 Bathroom as a Service (BaaS)
 
 Our internal hackathon project to monitor whether our bathrooms are full.
